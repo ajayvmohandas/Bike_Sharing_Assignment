@@ -1,17 +1,22 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike-Sharing-Assignment
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
 This project aims to predict the demand for shared bikes in the American market post the Covid-19 lockdown. The bike-sharing provider, BoomBikes, is facing revenue challenges and seeks to understand the factors influencing bike demand. The dataset includes information from meteorological surveys and user preferences.
 
+
+## Technologies Used
+-Pandas version: 1.5.3
+-NumPy version: 1.23.5
+-scikit-learn version: 1.2.2
+-Matplotlib version: 3.7.1
+-Seaborn version: 0.12.2
 
 ## Conclusions
 
@@ -33,14 +38,6 @@ This project aims to predict the demand for shared bikes in the American market 
 - **Weather Conditions:**
   - Certain weather conditions, such as Light Snow, Mist, Spring, and Winter, are significant predictors.
 
-
-
-## Technologies Used
--Pandas version: 1.5.3
--NumPy version: 1.23.5
--scikit-learn version: 1.2.2
--Matplotlib version: 3.7.1
--Seaborn version: 0.12.2
 
 
 ## Contact
