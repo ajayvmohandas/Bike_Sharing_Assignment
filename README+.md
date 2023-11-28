@@ -12,11 +12,12 @@ This project aims to predict the demand for shared bikes in the American market 
 
 
 ## Technologies Used
--Pandas version: 1.5.3
--NumPy version: 1.23.5
--scikit-learn version: 1.2.2
--Matplotlib version: 3.7.1
--Seaborn version: 0.12.2
+- **Pandas version:** 1.5.3
+- **NumPy version:** 1.23.5
+- **scikit-learn version:** 1.2.2
+- **Matplotlib version:** 3.7.1
+- **Seaborn version:** 0.12.2
+
 
 ## Conclusions
 Significant Variables for Predicting Shared Bike Demand
