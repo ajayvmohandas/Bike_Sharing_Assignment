@@ -19,9 +19,11 @@ This project aims to predict the demand for shared bikes in the American market 
 -Seaborn version: 0.12.2
 
 ## Conclusions
+Significant Variables for Predicting Shared Bike Demand
+The analysis of shared bike demand has revealed several variables with a significant impact on predicting demand:
 
-- **Holiday Presence:**
-  - Affects shared bike demand.
+- **Holiday:**
+  - Holiday Presence affects shared bike demand.
 
 - **Year of Observation:**
   - Significant increase from 2018 to 2019.
